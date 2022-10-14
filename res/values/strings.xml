@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name_surname">BLake</string>
+    <string name="business">actor</string>
+    <string name="phone_number">+91 4857XXXX</string>
+    <string name="email_text">blakexxxx@kotlin.co</string>
+</resources>
